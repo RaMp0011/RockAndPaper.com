@@ -16,7 +16,7 @@ from pygame import mixer
 import time
 mixer.init() #Initialzing pyamge mixer
 
-mixer.music.load('C:\\Users\\Acer\\Downloads\\futuristic-beat-146661.mp3') #Loading Music File
+mixer.music.load('C:\\Users\\Acer\\Downloads\\Rascal-Flatts-Life-is-a-Highway.mp3') #Loading Music File
 
 mixer.music.play() #Playing Music with Pygame
 
